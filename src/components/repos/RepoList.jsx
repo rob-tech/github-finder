@@ -1,5 +1,5 @@
-import PropTypes from 'prop-types';
 import RepoItem from './RepoItem';
+import PropTypes from 'prop-types';
 
 function RepoList({ repos }) {
   return (
